@@ -1,0 +1,9 @@
+name: 'GitHub TD'
+description: '🤖 Automate TD'
+author: 'Muhammet Dilek <dilekmuhammet@gmail.com>'
+runs:
+  using: 'node12'
+  main: 'index.js'
+branding:
+  icon: 'cpu'
+  color: 'gray-dark'
